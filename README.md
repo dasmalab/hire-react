@@ -10,7 +10,9 @@ What to Do?
 2. Complete the given tasks
 3. Push the changes to your repo
 4. Provide us the repo link via email.
-OR 
+
+OR
+
 Just clone this repo perform the tasks and submit a compressed zip file (not recommended)
 
 TASK 0
