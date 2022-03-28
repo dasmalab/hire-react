@@ -1,4 +1,6 @@
+# Hiring is stopped for now. You can use this as practice set. We may directly contact you in future if we find your solution good.
 # hire-react
+
 This repo is your gateway to work with Dasmalab technologies
 
 Steps to complete
